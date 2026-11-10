@@ -2,7 +2,7 @@
 
 # Enterprise Windows Security Event Monitoring & Triage with Splunk SIEM
 
-![SOC Monitoring Dashboard](Dashboard_overview)
+![SOC Monitoring Dashboard](screenshots/Dashboard_overview.png)
 
 ## 📌 Project Overview
 Built a local Security Operations Center (SOC) home lab using **Splunk Enterprise** to ingest, parse, and analyze Windows Event Logs for real-time authentication monitoring, privilege auditing, and threat detection.
