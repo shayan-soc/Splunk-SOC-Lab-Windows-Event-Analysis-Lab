@@ -1,7 +1,5 @@
 # Enterprise Windows Security Event Monitoring & Triage with Splunk SIEM
 
-# Enterprise Windows Security Event Monitoring & Triage with Splunk SIEM
-
 ![SOC Monitoring Dashboard](screenshots/Dashboard_overview.png)
 
 ## 📌 Project Overview
